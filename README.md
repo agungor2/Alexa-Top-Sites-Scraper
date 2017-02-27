@@ -1,1 +1,1 @@
-# Alexa-Top-Sites-Scraper
+# Alexa-Top-Sites-Category by category Scraper and saving it to a dictionary of dictionaries files
